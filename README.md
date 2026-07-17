@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure Sentinel Homelab: RDP Brute-Force Honeypot Detection](https://github.com/ninuolawale-1/azure-sentinel-soc-homelab)**
 
 <hr/>
 
