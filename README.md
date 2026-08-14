@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure Sentinel Homelab: RDP Brute-Force Honeypot Detection](https://github.com/ninuolawale-1/azure-sentinel-soc-homelab)**
-- - **[Live-Exposed Honeypot: End-to-End Breach Detection & Incident Response with Microsoft Defender](https://github.com/ninuolawale-1/live-honeypot-incident-response)**
+- **[Live-Exposed Honeypot: End-to-End Breach Detection & Incident Response with Microsoft Defender](https://github.com/ninuolawale-1/live-honeypot-incident-response)**
 
 <hr/>
 
