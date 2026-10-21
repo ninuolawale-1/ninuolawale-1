@@ -2,6 +2,10 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## ☁️ Cloud Engineering and Infrastructure as Code
+
+- **[Secure Azure Infrastructure Deployment with Terraform](https://github.com/ninuolawale-1/azure-secure-terraform-baseline)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure Sentinel Homelab: RDP Brute-Force Honeypot Detection](https://github.com/ninuolawale-1/azure-sentinel-soc-homelab)**
