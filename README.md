@@ -1,17 +1,24 @@
-# <a href="https://www.linkedin.com/in/ninu-olawale/">Ninu Olawale</a>'s Cloud Engineering and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/ninu-olawale/">Ninu Olawale</a>'s DevSecOps and Cloud Security Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I build secure cloud infrastructure and the pipelines that deploy to it. My projects focus on Infrastructure as Code, CI/CD security gates, container and Kubernetes hardening, and software supply chain security across Azure and AWS. Each one is defined in code, deployed for real, and validated by testing the exact attacks its controls are meant to stop. My background in security operations shapes how I build: every guardrail should leave evidence that it works.
 
-## ☁️ Cloud Engineering and Infrastructure as Code
+## ⚙️ DevSecOps and Cloud Security Engineering
 
+- **[DevSecOps Pipeline: Secure Container Deployment to AKS](https://github.com/ninuolawale-1/aks-devsecops)**
+  GitHub Actions pipeline with SAST, dependency, IaC, and image scanning gates, keyless cosign signing, CycloneDX SBOMs, and Kyverno admission control on AKS. OIDC authentication with no stored secrets.
 - **[Secure Azure Infrastructure Deployment with Terraform](https://github.com/ninuolawale-1/azure-secure-terraform-baseline)**
+  Hardened Azure environment in Terraform with a default-deny NSG, key-only SSH, cloud-init bootstrapping, and no secrets in code.
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Detection and Incident Response
 
-- **[Azure Sentinel Homelab: RDP Brute-Force Honeypot Detection](https://github.com/ninuolawale-1/azure-sentinel-soc-homelab)**
 - **[Live-Exposed Honeypot: End-to-End Breach Detection & Incident Response with Microsoft Defender](https://github.com/ninuolawale-1/live-honeypot-incident-response)**
+- **[Azure Sentinel Homelab: RDP Brute-Force Honeypot Detection](https://github.com/ninuolawale-1/azure-sentinel-soc-homelab)**
 
 <hr/>
+
+## 🛠️ Core Tools
+
+`Terraform` `Azure` `AWS` `AKS` `Kubernetes` `Docker` `GitHub Actions` `Kyverno` `cosign` `Trivy` `Semgrep` `Microsoft Sentinel` `Microsoft Defender` `KQL` `Python` `Bash`
 
 ## 🤳 Connect With Me
 
