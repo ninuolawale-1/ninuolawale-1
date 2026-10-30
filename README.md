@@ -1,9 +1,11 @@
 # <a href="https://www.linkedin.com/in/ninu-olawale/">Ninu Olawale</a>'s DevSecOps and Cloud Security Project Portfolio 🔐
 
-I build secure cloud infrastructure and the pipelines that deploy to it. My projects focus on Infrastructure as Code, CI/CD security gates, container and Kubernetes hardening, and software supply chain security across Azure and AWS. Each one is defined in code, deployed for real, and validated by testing the exact attacks its controls are meant to stop. My background in security operations shapes how I build: every guardrail should leave evidence that it works.
+I build secure cloud infrastructure and the pipelines that deploy to it. My projects focus on Infrastructure as Code, CI/CD security gates, GitOps, container and Kubernetes hardening, and software supply chain security across Azure and AWS. Each one is defined in code, deployed for real, and validated by testing the exact failures and attacks it's meant to handle. My background in security operations shapes how I build: every guardrail should leave evidence that it works.
 
 ## ⚙️ DevSecOps and Cloud Security Engineering
 
+- **[GitOps Event Streaming Platform on Amazon EKS](https://github.com/ninuolawale-1/eks-event-pipeline)**
+  Kafka, PostgreSQL, and Elasticsearch on EKS, provisioned with Terraform and deployed by Flux. GitHub Actions with OIDC builds and Trivy-scans images, KEDA scales consumers on Kafka lag, and the platform was load tested and failed over under live traffic.
 - **[DevSecOps Pipeline: Secure Container Deployment to AKS](https://github.com/ninuolawale-1/aks-devsecops)**
   GitHub Actions pipeline with SAST, dependency, IaC, and image scanning gates, keyless cosign signing, CycloneDX SBOMs, and Kyverno admission control on AKS. OIDC authentication with no stored secrets.
 - **[Secure Azure Infrastructure Deployment with Terraform](https://github.com/ninuolawale-1/azure-secure-terraform-baseline)**
@@ -18,7 +20,7 @@ I build secure cloud infrastructure and the pipelines that deploy to it. My proj
 
 ## 🛠️ Core Tools
 
-`Terraform` `Azure` `AWS` `AKS` `Kubernetes` `Docker` `GitHub Actions` `Kyverno` `cosign` `Trivy` `Semgrep` `Microsoft Sentinel` `Microsoft Defender` `KQL` `Python` `Bash`
+`Terraform` `Azure` `AWS` `AKS` `EKS` `Kubernetes` `Helm` `Flux` `KEDA` `Docker` `GitHub Actions` `Kafka` `Prometheus` `Grafana` `Kyverno` `cosign` `Trivy` `Semgrep` `Microsoft Sentinel` `Microsoft Defender` `KQL` `Python` `Bash`
 
 ## 🤳 Connect With Me
 
